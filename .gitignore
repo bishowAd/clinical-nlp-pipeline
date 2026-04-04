@@ -1,19 +1,19 @@
-# Environment variables - never push this
+
 .env
 
-# Data files - too large for GitHub
+
 data/
 
 # Trained models - too large for GitHub
 models/
 
-# Python virtual environment
+
 venv/
 
-# Python cache files
+
 __pycache__/
 *.pyc
 *.pyo
 
-# VS Code settings
+
 .vscode/
